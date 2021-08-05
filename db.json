@@ -16,8 +16,8 @@
   ],
   "2": [
     {
-      "id": 'abcde',
-      "num_coupon": 10
+      "id": 101,
+      "num_coupon": "Welcome"
     }
   ]
 }
