@@ -11,15 +11,13 @@
   "1": [
     {
       "id": 100,
-      "num_coupon": "Hi, sunggu",
-      "date": "20210806 06:09:12"
+      "num_coupon": "Hi, sunggu"
     }
   ],
   "2": [
     {
       "id": 'abcde',
-      "num_coupon": 10,
-      "date": "20210806 06:09:12"
+      "num_coupon": 10
     }
   ]
 }
